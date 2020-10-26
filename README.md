@@ -1,11 +1,11 @@
 # IC_ODS_11.2
-Bancos de dados dos municípios brasileiros utilizados para o projeto de Iniciação Científica sobre o Objetivo 11.2 do Desenvolvimento Sustentável da ONU
+Bancos de dados dos municípios brasileiros utilizados para o projeto de Iniciação Científica sobre o Objetivo 11.2 do Desenvolvimento Sustentável da ONU.
 
-  Os dados disponíveis nessa pasta são dados públicos, disponíveis nos seguintes endereços eletrônicos:
+  Os dados dessa pasta são dados públicos, disponíveis na forma original nos seguintes endereços eletrônicos:
 
 #### Área
 Os dados de área foram calculados utilizando o software QGis, a partir do shapefile dos municípios brasileiros:
-<>
+Malha Municipal, 2019 <https://www.ibge.gov.br/geociencias/organizacao-do-territorio/estrutura-territorial/15774-malhas.html?=&t=downloads>
 
 #### Frota de Veículos
 DENATRAN, 2018: <https://antigo.infraestrutura.gov.br/component/content/article/115-portal-denatran/8558-frota-de-veiculos-2018.html>
